@@ -13,7 +13,7 @@ Included are a few .mid files that work well with this program
 
 ~~~
 javac Visualizer.java 
-java Visualizer [songName].mid
+java Visualizer Songs/[songName].mid
 #Ex:
 java Visualizer Hearthstone.mid
 ~~~
