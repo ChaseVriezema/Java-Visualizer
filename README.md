@@ -15,5 +15,5 @@ Included are a few .mid files that work well with this program
 javac Visualizer.java 
 java Visualizer Songs/[songName].mid
 #Ex:
-java Visualizer Hearthstone.mid
+java Visualizer Songs/Hearthstone.mid
 ~~~
